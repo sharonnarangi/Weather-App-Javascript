@@ -43,3 +43,6 @@
     height: 60px;
     cursor: pointer;
 }
+.search button img{
+    width: 16px;
+}
